@@ -1,0 +1,4 @@
+Uiharu Archive Manager [ Version: 0.1.0 (Uiharu Kazari) ]
+
+This is a archive helper, focus on tapes. It's a libre software under AGPLv3.
+Uiharu Archive Manager comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
